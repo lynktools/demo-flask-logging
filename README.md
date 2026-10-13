@@ -72,3 +72,7 @@ APP_LOG_LEVEL=DEBUG ROOT_LOG_LEVEL=ERROR gunicorn --config gunicorn.conf.py app:
 ├── .gitignore          # Git ignore rules
 └── README.md           # Project documentation
 ```
+
+## References
+
+- [Logging - Lynk Wiki](https://wiki.kodingua.com/guide/logging)
